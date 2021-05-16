@@ -1,2 +1,5 @@
 # EQ_muzic
-This is my first repository
+
+My first repository on GitHub
+
+I love to make changes
